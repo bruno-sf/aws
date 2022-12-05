@@ -1,2 +1,2 @@
-# aws
+# AWS
 Aws related files, confs, scripts, blueprints, templates etc...
