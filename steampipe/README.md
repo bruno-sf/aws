@@ -1,6 +1,6 @@
 # AWS + Steampipe tests
 
-AWS + Steampipe
+AWS + Steampipe 
 AWS provides on-demand cloud computing platforms and APIs to authenticated customers on a metered pay-as-you-go basis.
 
 Steampipe is an open source CLI to instantly query cloud APIs using SQL.
